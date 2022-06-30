@@ -61,7 +61,7 @@ class Printer:
             if (cost > amount):
                 print(f"Here is your change ${cost - amount}\nprinting....")
                 return amount
-            print("Printing...")
+            print("Here is your Project.` and `Thank you for using our services")
             return round(amount)
 
     @classmethod
